@@ -40,19 +40,19 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Ernest Lee"
-  role = “MD/PhD Student“ # TODO
+  role = "MD/PhD Student" # TODO
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = “UCLA-Caltech Medical Scientist Training Program“, url = "" },{ name = “David Geffen School of Medicine, UCLA“, url = "" }, { name = “Henry Samueli School of Engineering and Applied Science, UCLA“, url = "" } ]
+  organizations = [ { name = "UCLA-Caltech Medical Scientist Training Program", url = "" },{ name = "David Geffen School of Medicine, UCLA", url = "" }, { name = "Henry Samueli School of Engineering and Applied Science, UCLA", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = “ernest.lee@ucla.edu” # TODO
-  address = “4121 Engineering V, UCLA, Los Angeles, California, 90095, USA" # TODO
-  office_hours = “Email for appointment" # TODO
-  phone = “858-353-7798” # TODO
-  skype = “gotrice9195” # TODO
+  email = "ernest.lee@ucla.edu" # TODO
+  address = "4121 Engineering V, UCLA, Los Angeles, California, 90095, USA" # TODO
+  office_hours = "Email for appointment" # TODO
+  phone = "858-353-7798" # TODO
+  skype = "gotrice9195" # TODO
   telegram = "" # TODO
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -205,12 +205,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = “ernest.lee@ucla.edu” # TODO
+    link = "ernest.lee@ucla.edu" # TODO
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/Cub3m4st3r” # TODO
+    link = "//twitter.com/Cub3m4st3r" # TODO
 
   [[params.social]]
     icon = "google-scholar"
@@ -220,7 +220,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/Cub3m4st3r” # TODO
+    link = "//github.com/Cub3m4st3r" # TODO
 
 
 # Navigation Links
