@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "ernest.lee@ucla.edu" # TODO
+    link = "mailto:ernest.lee@ucla.edu" # TODO
 
   [[params.social]]
     icon = "twitter"

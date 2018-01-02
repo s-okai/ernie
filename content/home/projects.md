@@ -29,12 +29,12 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Machine learning-enabled discovery of membrane-active proteins"
+  tag = ".machinelearning"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Structural rules for innate immunne recognition of nucleic acids"
+  tag = ".innateimmunity"
 
 +++
 
