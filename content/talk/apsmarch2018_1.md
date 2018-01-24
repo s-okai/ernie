@@ -1,14 +1,14 @@
 +++
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "Machine learning and membrane remodeling activity"
-time_start = 2018-01-10T10:45:00
-time_end = 2018-01-10T11:30:00
+title = "Design Rules for Immunomodulation by Host-Defense Peptides"
+time_start = 2018-03-06T15:30:00
+time_end = 2018-03-06T15:42:00
 abstract = ""
 abstract_short = ""
-event = "Aspen Center for Physics 2018 Winter Conference:  Data-driven Discovery and Design in Soft and Biological Materials"
-event_url = "http://ferguson.matse.illinois.edu/page/index.html"
-location = "Aspen, CO"
+event = "APS March Meeting 2018"
+event_url = "http://meetings.aps.org/Meeting/MAR18/Session/H52.4"
+location = "Los Angeles, CA"
 
 # Is this a selected talk? (true/false)
 selected = false
