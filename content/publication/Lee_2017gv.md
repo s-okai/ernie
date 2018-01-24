@@ -10,4 +10,7 @@ url_source = "http://dx.doi.org/10.1021/acscentsci.7b00338"
 math = true
 highlight = true
 selected = true
+[header]
+image = "headers/ACS_CenSci_Cover.jpg"
+caption = "ACS Central Science November 2017 Cover Article"
 +++
