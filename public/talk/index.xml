@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Ernest Lee</title>
+    <link>https://Cub3m4st3r.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Ernest Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Ernest Lee</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crystallinity of dsRNA-Antimicrobial Peptide Complexes Modulates TLR3-Mediated Inflammation</title>
+      <link>https://Cub3m4st3r.github.io/talk/apsmarch2018_2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/talk/apsmarch2018_2/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design Rules for Immunomodulation by Host-Defense Peptides</title>
+      <link>https://Cub3m4st3r.github.io/talk/apsmarch2018_1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/talk/apsmarch2018_1/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning and membrane remodeling activity</title>
+      <link>https://Cub3m4st3r.github.io/talk/aspen2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/talk/aspen2018/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
