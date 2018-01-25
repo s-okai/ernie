@@ -215,7 +215,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/ernestylee" # TODO
+    link = "//linkedin.com/in/ernestylee/" # TODO
 
   [[params.social]]
     icon = "google-scholar"
