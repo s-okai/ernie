@@ -51,8 +51,8 @@ defaultContentLanguageInSubdir = false
   email = "ernest.lee@ucla.edu" # TODO
   address = "4121 Engineering V, UCLA, Los Angeles, California, 90095, USA" # TODO
   office_hours = "Email for appointment" # TODO
-  phone = "858-353-7798" # TODO
-  skype = "gotrice9195" # TODO
+  phone = "" # TODO
+  skype = "" # TODO
   telegram = "" # TODO
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -211,6 +211,11 @@ defaultContentLanguageInSubdir = false
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/Cub3m4st3r" # TODO
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/ernestylee" # TODO
 
   [[params.social]]
     icon = "google-scholar"
