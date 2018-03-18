@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2016-01-01"
 
 # Project title.
 title = "Autoimmune Diseases and Chronic Inflammation"
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/CsgA.jpg"
+image = "headers/CsgA_2.jpg"
 caption = "Curli-DNA complexes induce TLR9 and TLR2-dependent autoimmunity in chronic *Salmonella* infections."
 
 +++

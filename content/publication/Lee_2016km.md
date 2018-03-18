@@ -10,4 +10,7 @@ url_source = "http://dx.doi.org/10.1073/pnas.1609893113"
 math = true
 highlight = true
 selected = true
+[header]
+image = "headers/NGC_Schematics.jpg"
+caption = "Examples of NGC"
 +++

@@ -9,7 +9,7 @@ title = "Design Rules for Immunomodulation by Host-Defense Peptides"
 summary = "How do antimicrobial peptides modulate Toll-like receptor signaling?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "TLR3_TOC.jpg"
+image_preview = "Immunomodulation_Review_2.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

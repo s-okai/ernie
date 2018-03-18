@@ -1,6 +1,6 @@
 baseurl = "https://Cub3m4st3r.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Ernest Lee"
-copyright = "&copy; 2017 Ernest Lee"
+title = "Ernest Y. Lee"
+copyright = "&copy; 2018 Ernest Y. Lee"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,7 +39,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Ernest Lee"
+  name = "Ernest Y. Lee"
   role = "MD/PhD Student" # TODO
 
   # Organizations/Affiliations.
@@ -182,7 +182,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 2
 
   # Social/Academic Networking
   #
@@ -227,6 +227,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/Cub3m4st3r" # TODO
 
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0001-5144-2552" # TODO
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "//www.researchgate.net/profile/Ernest_Lee4" # TODO
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -246,16 +255,20 @@ defaultContentLanguageInSubdir = false
   url = "#publications"
   weight = 2
 
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 3
 
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
-
-[[menu.main]]
-  name = "Curriculum Vitae"
-  url = "#curriculum"
   weight = 4
+
+#[[menu.main]]
+#  name = "Curriculum Vitae"
+#  url = "#curriculum"
+#  weight = 4
 
 #[[menu.main]]
 #  name = "Teaching"
@@ -266,11 +279,6 @@ defaultContentLanguageInSubdir = false
   name = "Posts"
   url = "#posts"
   weight = 5
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 6
 
 
 [[menu.main]]

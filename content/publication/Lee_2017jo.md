@@ -10,4 +10,7 @@ url_source = "http://dx.doi.org/10.1098/rsfs.2016.0153"
 math = true
 highlight = true
 selected = true
+[header]
+image = "headers/Interface_Focus.jpg"
+caption = "Discovery of hidden membrane activity in existing peptide and protein families"
 +++

@@ -9,4 +9,7 @@ url_pdf = "pdf/PLoS Pathog 2017 Tursi.pdf"
 url_source = "http://dx.doi.org/10.1371/journal.ppat.1006315"
 math = true
 highlight = true
+[header]
+image = "headers/CsgA.jpg"
+caption = "Curli-DNA binding to TLR9"
 +++

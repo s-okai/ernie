@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Multifunctional Peptides and Proteins"
 
 # Project summary to display on homepage.
-summary = "How does nature conjugate multiple functions into a single protein domain?"
+summary = "How does nature conjugate multiple functions into a single protein domain, including receptor-binding and membrane activity?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Dnm1.jpg"

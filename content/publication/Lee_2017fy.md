@@ -10,4 +10,7 @@ url_source = "http://dx.doi.org/10.1021/acsnano.7b05234"
 math = true
 highlight = true
 selected = true
+[header]
+image = "headers/TLR3_TOC.jpg"
+caption = "LL37-dsRNA binding to TLR3"
 +++
