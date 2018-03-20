@@ -10,4 +10,7 @@ url_source = "http://dx.doi.org/10.1021/acsnano.7b04738"
 math = true
 highlight = true
 selected = true
+[header]
+image = "headers/COMSOL_Image.jpg"
+caption = "Diverse motility modes of Pseudomonas near a surface."
 +++
