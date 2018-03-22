@@ -212,6 +212,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//twitter.com/Cub3m4st3r" # TODO
 
+    [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "//www.instagram.com/cub3m4st3r/" # TODO
+
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
@@ -236,6 +241,11 @@ defaultContentLanguageInSubdir = false
     icon = "researchgate"
     icon_pack = "ai"
     link = "//www.researchgate.net/profile/Ernest_Lee4" # TODO
+
+    [[params.social]]
+    icon = "pubmed"
+    icon_pack = "ai"
+    link = "//www.ncbi.nlm.nih.gov/myncbi/browse/collection/54598072/?sort=date&direction=ascending" # TODO
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
