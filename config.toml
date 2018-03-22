@@ -207,15 +207,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:ernest.lee@ucla.edu" # TODO
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/Cub3m4st3r" # TODO
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = "//twitter.com/Cub3m4st3r" # TODO
 
-    [[params.social]]
-    icon = "instagram"
-    icon_pack = "fa"
-    link = "//www.instagram.com/cub3m4st3r/" # TODO
+#    [[params.social]]
+#    icon = "instagram"
+#    icon_pack = "fa"
+#    link = "//www.instagram.com/cub3m4st3r/" # TODO
 
   [[params.social]]
     icon = "linkedin"
