@@ -10,4 +10,6 @@ math = true
 highlight = true
 selected = true
 [header]
+image = "COCIS.jpg"
+caption = "Membrane-remodeling peptides and proteins have diverse primary functions"
 +++

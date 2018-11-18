@@ -11,4 +11,6 @@ math = true
 highlight = true
 selected = true
 [header]
+image = "Bioconjugate.jpg"
+caption = "Comparison of bioconjugation strategies"
 +++

@@ -10,4 +10,7 @@ url_source = "https://dx.doi.org/10.1016/j.bmc.2017.07.012"
 math = true
 highlight = true
 selected = true
+[header]
+image = "BMC.jpg"
+caption = "SVM-based learning of helical antimicrobial peptide sequences"
 +++

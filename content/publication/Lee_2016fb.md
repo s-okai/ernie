@@ -10,4 +10,7 @@ url_source = "http://dx.doi.org/10.1016/j.cis.2016.02.003"
 math = true
 highlight = true
 selected = true
+[header]
+image = "AdvCollIntSci.jpg"
+caption = "Liquid crystalline AMP-DNA complexes control TLR9 activation"
 +++
