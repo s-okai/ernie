@@ -230,7 +230,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/Cub3m4st3r" # TODO
+    link = "//github.com/ernest-lee" # TODO
 
   [[params.social]]
     icon = "orcid"
