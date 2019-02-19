@@ -28,4 +28,4 @@ caption = "Blebbing, budding, scission, and pore formation are manifestations of
 
 +++
 
-We combine machine learning with calibrating X-ray measurements of induced negative Gaussian curvature by helical antimicrobial peptides to develop a screening tool that can broadly discover hidden membrane-remodeling activity in diverse families of peptides and proteins with various primary functions. 
+We combine machine learning with calibrating X-ray measurements of induced negative Gaussian curvature by helical antimicrobial peptides to develop a screening tool that can broadly discover hidden membrane-remodeling activity in diverse families of peptides and proteins with various primary functions (Lee et al. PNAS 2016, Lee et al. Interface Focus 2017, Lee et al. Bioorg. Med. Chem. 2018). 

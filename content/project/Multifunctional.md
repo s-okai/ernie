@@ -28,4 +28,4 @@ caption = "Dnm1 is a GTPase motor that also induces membrane curvature to facili
 
 +++
 
-We use bioinformatics and machine learning to decompose how amino acid sequences can encode multiple functions in the same protein. These span antimicrobial peptides, cytokines, apoptosis regulators, bacterial secretion systems, and other membrane-remodeling proteins.
+We use bioinformatics and machine learning to decompose how amino acid sequences can encode multiple functions in the same protein. These span antimicrobial peptides, cytokines, apoptosis regulators, bacterial secretion systems, and other membrane-remodeling proteins (Lee et al. ACS Central Science 2017, Lee et al. Bioconjugate Chemistry 2018, Lee et al. Curr. Opin. Coll. Int. Sci. 2018, Yount et al. PNAS 2019).

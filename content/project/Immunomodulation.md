@@ -28,4 +28,4 @@ caption = "Nanocrystalline ordering of AMP-dsRNA complexes modulates TLR3 activa
 
 +++
 
-We combine state of the art X-ray measurements with computer simulations and immune cell measurements to delineate structural design principles for molecules that modulate of Toll-like receptor signaling. Of particular interest are electrostatically self-assembled antimicrobial peptide-nucleic acid nanocrystals that amplify inflammation in autoimmune disease.
+We combine state of the art X-ray measurements with computer simulations and immune cell measurements to delineate structural design principles for molecules that modulate of Toll-like receptor signaling. Of particular interest are electrostatically self-assembled antimicrobial peptide-nucleic acid nanocrystals that amplify inflammation in autoimmune disease (Lee et al. Adv. Coll. Int. Sci 2016, Lee et al. ACS Nano 2017, Lee et al. Nature Comm. 2019).
