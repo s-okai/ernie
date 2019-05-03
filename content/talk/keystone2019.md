@@ -1,7 +1,7 @@
 +++
 date = 2019-02-18T05:00:00  # Schedule page publish date.
 
-title = "Host defense peptides amplify TLR9-mediated inflammation in autoimmune diseases by scaffolding dsDNA into spatially-periodic nanocrystals."
+title = "Host defense peptides amplify TLR9-mediated inflammation in autoimmune diseases by scaffolding dsDNA into spatially-periodic nanocrystals"
 time_start = 2019-03-13T17:00:00
 time_end = 2019-03-13T19:00:00
 abstract = ""
