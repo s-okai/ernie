@@ -245,7 +245,7 @@ defaultContentLanguageInSubdir = false
     [[params.social]]
     icon = "pubmed"
     icon_pack = "ai"
-    link = "//www.ncbi.nlm.nih.gov/myncbi/browse/collection/54598072/?sort=date&direction=ascending" # TODO
+    link = "//www.ncbi.nlm.nih.gov/myncbi/ernest.lee.1/bibliography/public/" # TODO
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
