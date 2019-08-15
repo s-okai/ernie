@@ -10,12 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Biophysics",
+    "Autoimmune Diseases",
     "Innate Immunity",
     "Antimicrobial Peptides",
-    "Autoimmune Diseases",
+    "Biophysics",
+    "Structural Biology",
     "Computational Biology",
-    "Neuroimmunology"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -39,6 +39,6 @@ weight = 5
 
 # Biography
 
-I am an 8th year M.D./Ph.D. student in the [UCLA-Caltech Medical Scientist Training Program](http://mstp.healthsciences.ucla.edu/students/ernest-lee-phd). I completed my Ph.D. in 2018 under the mentorship of [Dr. Gerard Wong](http://wonglab.seas.ucla.edu) in the Department of Bioengineering at UCLA. I received a B.S. in Physics with Honors from Caltech in 2012. I am a physician-scientist who has trained in soft matter physics, structural and computational biology, and immunology. I am interested in leveraging multidisciplinary strategies to study scientific questions at the intersection of infectious, autoimmune, and neurodegenerative diseases. My graduate work spans machine-learning aided design of membrane-active antimicrobial peptides, immunomodulatory strategies for autoimmune diseases, and the role of the nervous system in innate host defense. I am a recipient of a 2017-2018 [Early Career Research Grant](https://app.dimensions.ai/details/grant/grant.7127373) from the [National Psoriasis Foundation](https://www.psoriasis.org), a 2017-2018 NIAMS T32 Dermatology Scientist Training Program Grant, and a 2014-2015 and 2015-2016 NIGMS T32 Systems and Integrative Biology Training Program Grant.
+I am an 8th year M.D./Ph.D. student in the [UCLA-Caltech Medical Scientist Training Program](http://mstp.healthsciences.ucla.edu/students/ernest-lee-phd). I completed my Ph.D. in 2018 under the mentorship of [Dr. Gerard Wong](http://wonglab.seas.ucla.edu) in the Department of Bioengineering at UCLA. I received a B.S. in Physics with Honors from Caltech in 2012. I am a future physician-scientist in dermatology who has trained in soft matter physics, structural and computational biology, immunology, and microbiology. I am interested in leveraging multidisciplinary strategies to study scientific questions at the intersection of infectious and autoimmune skin diseases. My graduate work spans machine-learning aided design of membrane-active antimicrobial peptides, molecular mechanisms of psoriasis, lupus, and scleroderma, and the role of the nervous system in host defense against systemic infection. I am a recipient of a 2017-2018 [Early Career Research Grant](https://app.dimensions.ai/details/grant/grant.7127373) from the [National Psoriasis Foundation](https://www.psoriasis.org), a 2017-2018 NIAMS T32 Dermatology Scientist Training Program Grant, and a 2014-2015 and 2015-2016 NIGMS T32 Systems and Integrative Biology Training Program Grant.
 
 [Click here for an updated CV](pdf/Ernest Lee CV.pdf)
