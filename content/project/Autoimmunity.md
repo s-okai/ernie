@@ -28,4 +28,4 @@ caption = "Curli-DNA complexes induce TLR9 and TLR2-dependent autoimmunity in ch
 
 +++
 
-Autoimmune diseases are characterized by incurable chronic inflammation and poor quality of life. New mechanistic targets and treatment modalities are needed. We aim to understand the molecular basis of autoimmune disease and develop candidate interventions (Tursi et al. PLoS Pathogens 2017, Lee et al. Semin. Cell Dev. Bio. 2018, Takahashi et al. Sci. Reports 2018, Lande, Lee et al. Nature Comm. 2019).
+Autoimmune diseases are characterized by incurable chronic inflammation and poor quality of life. New mechanistic targets and treatment modalities are needed. We aim to understand the molecular basis of autoimmune disease and develop candidate interventions (Tursi et al. PLoS Pathogens 2017, Lee et al. ACS Nano 2017, Lee et al. Semin. Cell Dev. Bio. 2018, Takahashi et al. Sci. Reports 2018, Lee et al. Nature Comm. 2019, Lande, Lee et al. Nature Comm. 2019).
