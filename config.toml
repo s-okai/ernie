@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Ernest Y. Lee"
-  role = "MD/PhD Student" # TODO
+  role = "M.D./Ph.D. Student" # TODO
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -273,7 +273,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 4
+  weight = 5
 
 #[[menu.main]]
 #  name = "Curriculum Vitae"
@@ -286,15 +286,24 @@ defaultContentLanguageInSubdir = false
 #  weight = 5
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 5
+  name = "Awards and Honors"
+  url = "#awards"
+  weight = 4
 
+  [[menu.main]]
+  name = "Press"
+  url = "#press"
+  weight = 6
+
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 
 
