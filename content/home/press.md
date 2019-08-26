@@ -14,6 +14,9 @@ subtitle = ""
 weight = 40
 
 +++
+
+[Liquid crystal immune sensing](https://science.sciencemag.org/content/364/6442/747.5)
+
 [UCLA Samueli celebrates engineering accomplishments at 2019 Awards Dinner](https://samueli.ucla.edu/ucla-samueli-celebrates-engineering-accomplishments-at-2019-awards-dinner/)
 
 [Wong group leads study that could help better control autoimmune diseases](https://www.chemistry.ucla.edu/news/wong-group-leads-study-could-help-better-control-autoimmune-diseases?fbclid=IwAR1KLuoJLwJq4d2GLtFC6BxZ0BT9c-GuE-Zl9MGd1HuHfNEWEbXT9HDVcLA)
