@@ -17,6 +17,10 @@ weight = 40
 
 [Liquid crystal immune sensing](https://science.sciencemag.org/content/364/6442/747.5)
 
+[Neutrophil-driven SMC death destabilizes atherosclerotic plaques](https://www.nature.com/articles/s41569-019-0214-1)
+
+[Scientists discover common blueprint for protein antibiotics](https://phys.org/news/2019-03-scientists-common-blueprint-protein-antibiotics.html)
+
 [UCLA Samueli celebrates engineering accomplishments at 2019 Awards Dinner](https://samueli.ucla.edu/ucla-samueli-celebrates-engineering-accomplishments-at-2019-awards-dinner/)
 
 [Wong group leads study that could help better control autoimmune diseases](https://www.chemistry.ucla.edu/news/wong-group-leads-study-could-help-better-control-autoimmune-diseases?fbclid=IwAR1KLuoJLwJq4d2GLtFC6BxZ0BT9c-GuE-Zl9MGd1HuHfNEWEbXT9HDVcLA)
@@ -26,6 +30,8 @@ weight = 40
 [Researchers identify molecule’s structure, role in autoimmune conditions](https://dailybruin.com/2019/04/07/researchers-identify-molecules-structure-role-in-autoimmune-conditions/)
 
 [Bioengineering Outstanding Ph.D. Award](https://www.bioeng.ucla.edu/6638-2/)
+
+[Molecule passes message to make biofilms to new generations](https://cen.acs.org/biologicalChemistry/infectiousDisease/Microbes-possess-chemical-memory/96/i14)
 
 [UCLA bioengineers discover mechanism that regulates cells’ ‘powerhouses’](http://newsroom.ucla.edu/releases/ucla-bioengineers-discover-mechanism-that-regulates-cells-powerhouses)
 
