@@ -21,7 +21,6 @@ Year	|Award
 **2019**|Society for Investigative Dermatology Post-Doctoral Retreat Trainee Scholarship, Society of Investigative Dermatology
 **2019**|Keystone Symposia Trainee Scholarship, Keystone Symposia on Molecular and Cellular Biology
 **2019**|Edward K. Rice Outstanding Doctoral Student Award, UCLA Samueli School of Engineering
-**2019**|Honors in Inpatient Internal Medicine, Ambulatory Internal Medicine, Family Medicine, Neurology, Psychiatry, Obstetrics/Gynecology, Pediatrics, and Dermatology Clinical Clerkships, David Geffen School of Medicine, UCLA
 **2018**|Department of Bioengineering Outstanding Ph.D. Student Award, UCLA Samueli School of Engineering
 **2017**|Peptide Therapeutics Foundation Travel Grant, Peptide Therapeutics Foundation
 **2017**|NIH NIAMS T32 Dermatology Scientist Training Program Grant (T32AR071307), UCLA
