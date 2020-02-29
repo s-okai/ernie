@@ -1,9 +1,9 @@
 +++
 title = "Machine learning for personalized dermatology: Advances, opportunities, and outlook"
-date = "2019-09-11"
+date = "2020-02-19"
 authors = ["**Lee, E.Y.**, Maloney, N.J., Cheng, K., Bach, D.Q"]
 publication_types = ["2"]
-publication = "Submitted"
+publication = "In revision"
 abstract = ""
 url_pdf = ""
 url_source = ""

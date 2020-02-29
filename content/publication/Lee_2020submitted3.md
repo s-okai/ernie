@@ -1,6 +1,6 @@
 +++
 title = "Ocular lichen planus treated with lifitegrast"
-date = "2019-12-01"
+date = "2020-02-20"
 authors = ["**Lee, E.Y.**, Arzeno, J., Ni, C., Holland, V"]
 publication_types = ["2"]
 publication = "Submitted"
