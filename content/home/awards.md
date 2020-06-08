@@ -16,6 +16,8 @@ weight = 29
 +++
 Year	|Award
 --------|-------------
+**2020**|Emil Bogen Research Prize, David Geffen School of Medicine, UCLA
+**2020**|Elected as Member of Tau Beta Pi: The Engineering Honor Society, UCLA
 **2019**|Elected as Full Member to Sigma Xi: The Scientific Research Honor Society, UCLA
 **2019**|Elected as Junior Member to AΩA, David Geffen School of Medicine, UCLA
 **2019**|National Psoriasis Foundation Travel Grant, National Psoriasis Foundation

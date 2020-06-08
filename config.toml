@@ -1,6 +1,6 @@
 baseurl = "https://ernest-lee.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Ernest Y. Lee"
-copyright = "&copy; 2018 Ernest Y. Lee"
+title = "Ernest Y. Lee, MD, PhD"
+copyright = "&copy; 2020 Ernest Y. Lee, MD, PhD"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,17 +39,17 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Ernest Y. Lee"
-  role = "M.D./Ph.D. Student" # TODO
+  name = "Ernest Y. Lee, MD, PhD"
+  role = "Internal Medicine Resident" # TODO
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "UCLA-Caltech Medical Scientist Training Program", url = "" },{ name = "David Geffen School of Medicine, UCLA", url = "" }, { name = "Henry Samueli School of Engineering and Applied Science, UCLA", url = "" } ]
+  organizations = [{ name = "Cedars-Sinai Medical Center", url = "" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ernest.lee@ucla.edu" # TODO
-  address = "4121 Engineering V, UCLA, Los Angeles, California, 90095, USA" # TODO
+  email = "ernest.lee@cshs.org" # TODO
+  address = "8700 Beverly Blvd. Suite 5512, West Hollywood, CA, 90048" # TODO
   office_hours = "Email for appointment" # TODO
   phone = "" # TODO
   skype = "" # TODO
@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:ernest.lee@ucla.edu" # TODO
+    link = "mailto:ernest.lee@cshs.org" # TODO
 
 #  [[params.social]]
 #    icon = "twitter"
@@ -316,6 +316,6 @@ defaultContentLanguageInSubdir = false
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
-# Configure the English version of the website. 
+# Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"

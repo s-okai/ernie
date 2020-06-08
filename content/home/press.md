@@ -29,7 +29,7 @@ weight = 40
 
 [Researchers identify molecule’s structure, role in autoimmune conditions](https://dailybruin.com/2019/04/07/researchers-identify-molecules-structure-role-in-autoimmune-conditions/)
 
-[Bioengineering Outstanding Ph.D. Award](https://www.bioeng.ucla.edu/6638-2/)
+[Bioengineering Outstanding PhD Award](https://www.bioeng.ucla.edu/6638-2/)
 
 [Molecule passes message to make biofilms to new generations](https://cen.acs.org/biologicalChemistry/infectiousDisease/Microbes-possess-chemical-memory/96/i14)
 

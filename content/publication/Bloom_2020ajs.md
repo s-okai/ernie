@@ -1,6 +1,6 @@
 +++
 title = "Improved prediction of HIT in the SICU using an improved model of the Warkentin 4-T system: 3-T"
-date = "2019-07-29"
+date = "2020-01-01"
 authors = ["Bloom, M.B., Johnson, J., Volod, O., **Lee, E.Y.**, White, T., Margulies, D.R"]
 publication_types = ["2"]
 publication = "In *The American Journal of Surgery* 219(1): 54-57"

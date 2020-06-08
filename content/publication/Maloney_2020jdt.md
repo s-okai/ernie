@@ -1,6 +1,6 @@
 +++
 title = "Off-label studies on apremilast in dermatology: a review"
-date = "2019-02-04"
+date = "2020-03-01"
 authors = ["Maloney, N.J.","Zhao, J.","Tegtmeyer, K.","**Lee, E.Y.**", "Cheng, K."]
 publication_types = ["2"]
 publication = "In *Journal of Dermatological Treatment* 31(2): 131-140"
