@@ -17,6 +17,8 @@ weight = 40
 
 [Liquid crystal immune sensing](https://science.sciencemag.org/content/364/6442/747.5)
 
+[International collaboration reveals process behind inflammation in atherosclerosis, potential treatment] (https://cnsi.ucla.edu/project/may-14-2019-international-collaboration-reveals-process-behind-inflammation-in-atherosclerosis-potential-treatment/)
+
 [Neutrophil-driven SMC death destabilizes atherosclerotic plaques](https://www.nature.com/articles/s41569-019-0214-1)
 
 [Scientists discover common blueprint for protein antibiotics](https://phys.org/news/2019-03-scientists-common-blueprint-protein-antibiotics.html)

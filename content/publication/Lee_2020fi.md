@@ -11,4 +11,6 @@ math = true
 highlight = true
 selected = true
 [header]
+image = "Amyloid AMP.jpg"
+caption = "AMP and amyloid self-assembly in host defense and immune signaling
 +++

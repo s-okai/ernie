@@ -1,9 +1,9 @@
 +++
-title = "Electric Scooters: Impact on a Community"
+title = "Standing Electric Scooters: Impact on a Community"
 date = "2020-04-01"
 authors = ["Bloom, M.B., Noorzad, A., Lin, C., Little, M., **Lee, E.Y.**, Torbati, S"]
 publication_types = ["2"]
-publication = "Submitted"
+publication = "In revision"
 abstract = ""
 url_pdf = ""
 url_source = ""
