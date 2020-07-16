@@ -15,6 +15,8 @@ weight = 40
 
 +++
 
+[Dermatology researchers: AI tools soon to be ‘tightly integrated into daily clinical practice’](https://www.aiin.healthcare/topics/research/dermatology-ai-tools-integrated-clinical-practice)
+
 [Liquid crystal immune sensing](https://science.sciencemag.org/content/364/6442/747.5)
 
 [International collaboration reveals process behind inflammation in atherosclerosis, potential treatment] (https://cnsi.ucla.edu/project/may-14-2019-international-collaboration-reveals-process-behind-inflammation-in-atherosclerosis-potential-treatment/)

@@ -11,4 +11,6 @@ math = true
 highlight = true
 selected = true
 [header]
+image = "COVID19.jpg"
+caption = "Telehealth is key to in-hospital communication during COVID-19"
 +++

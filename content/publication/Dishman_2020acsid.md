@@ -11,4 +11,6 @@ math = true
 highlight = true
 selected = true
 [header]
+image = "XCL1.jpg"
+caption = "XCL1 is a metamorphic chemokine that can toggle between a monomer and dimer structure"
 +++
