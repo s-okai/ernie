@@ -14,4 +14,3 @@ selected = true
 image = "Amyloid AMP.jpg"
 caption = "AMP and amyloid self-assembly in host defense and immune signaling"
 +++
-1.	Lee, E. Y. et al. Functional Reciprocity of Amyloids and Antimicrobial Peptides: Rethinking the Role of Supramolecular Assembly in Host Defense, Immune Activation, and Inflammation. Frontiers in Immunology 11, 898 (2020).
