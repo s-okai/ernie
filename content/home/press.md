@@ -45,8 +45,10 @@ weight = 40
 
 [National Psoriasis Foundation Awards over $2M in Research Grants and Fellowships](https://www.psoriasis.org/media/press-releases/2018-research-grant-and-fellowship-application-process-now-open-portland-ore)
 
+[The rogue protein behind Parkinson’s disease may also protect your gut](https://www.sciencemag.org/news/2017/06/rogue-protein-behind-parkinson-s-disease-may-also-protect-your-gut)
+
 [Machine-learning discovery and design of membrane active peptides for biomedicine](https://engineeringatil.scienceblog.com/2016/11/15/machine-learning-discovery-and-design-of-membrane-active-peptides-for-biomedicine/)
 
 [Computers learn to recognize molecules that can enter cells](https://phys.org/news/2016-11-molecules-cells.html)
 
-[50 Finalists Announced for Hertz Foundation Fellowship](https://hertzfoundation.org/lib/literature/2015-Hertz-Finalists-web.pdf)
+[50 Finalists Announced for Hertz Foundation Fellowship](https://www.hertzfoundation.org/news/50-finalists-announced-for-hertz-foundation-fellowship/)
