@@ -15,6 +15,8 @@ weight = 40
 
 +++
 
+[Forbes 30 Under 30 2021 in Science - Ernest Lee](https://www.forbes.com/profile/ernest-lee/)
+
 [Dermatology researchers: AI tools soon to be ‘tightly integrated into daily clinical practice’](https://www.aiin.healthcare/topics/research/dermatology-ai-tools-integrated-clinical-practice)
 
 [Liquid crystal immune sensing](https://science.sciencemag.org/content/364/6442/747.5)
