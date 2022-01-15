@@ -1,6 +1,6 @@
 baseurl = "https://ernest-lee.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Ernest Y. Lee, MD, PhD"
-copyright = "&copy; 2020 Ernest Y. Lee, MD, PhD"
+copyright = "&copy; 2022 Ernest Y. Lee, MD, PhD"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -40,16 +40,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Ernest Y. Lee, MD, PhD"
-  role = "Internal Medicine Resident" # TODO
+  role = "Physician-Scientist" # TODO
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [{ name = "Cedars-Sinai Medical Center", url = "" }]
+  organizations = [{ name = "University of California, San Francisco", url = "" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ernest.lee@cshs.org" # TODO
-  address = "8700 Beverly Blvd. Suite 5512, West Hollywood, CA, 90048" # TODO
+  email = "ernest.lee@ucsf.edu" # TODO
+  address = "1701 Divisadero St., San Francisco, CA 94115" # TODO
   office_hours = "Email for appointment" # TODO
   phone = "" # TODO
   skype = "" # TODO
